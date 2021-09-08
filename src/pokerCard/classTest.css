@@ -1,0 +1,29 @@
+.mainContainer{
+
+    
+    width: 100%;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputHolder{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    background-color: wh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.avatar{
+    
+}
+
+.name{
+
+}
+.quote{
+
+}
